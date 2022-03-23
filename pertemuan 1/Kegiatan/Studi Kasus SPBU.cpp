@@ -66,5 +66,4 @@ int main(){
     cout << "           TERIMA KASIH DAN SELAMAT JALAN              ";
 	
 	return 0;
-
 }
