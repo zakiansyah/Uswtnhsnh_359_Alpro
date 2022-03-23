@@ -64,6 +64,5 @@ int main(){
     cout << "======================================================"<<endl;
     cout << "Operator       : "<<nama_penjaga<<endl;
     cout << "           TERIMA KASIH DAN SELAMAT JALAN              ";
-	
 	return 0;
 }
