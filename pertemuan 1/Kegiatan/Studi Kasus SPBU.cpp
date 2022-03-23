@@ -9,14 +9,14 @@ struct data_BBM{
 };
 
 int main(){
-	string nama_penjaga, jenis, code;
-	data_BBM BBM;
+    string nama_penjaga, jenis, code;
+    data_BBM BBM;
     string kode_BBM[2]={"1", "2"};
     string nama_BBM[2]={"Pertalite", "Pertamax"};
     int jml_uang, kembali, total=0;
     float liter, harga, uang;
     
-	cout << "======================================="<<endl;
+    cout << "======================================="<<endl;
     cout << "     Selamat Datang di SPBU            "<<endl;
     cout << "   Jalan Vitalis Djebarus Labuan       "<<endl;
     cout << "======================================="<<endl;
@@ -51,7 +51,7 @@ int main(){
         liter = uang / harga;
         kembali = jml_uang - uang;
 	
-	cout << "                   -PERTAMINA-                        "<<endl;
+    cout << "                   -PERTAMINA-                        "<<endl;
     cout << "                 -SPBU INDONESIA-                     "<<endl;
     cout << "        -Jl. Vitalis Djebarus Labuan Bajo-            "<<endl;
     cout << "------------------------------------------------------"<<endl;
