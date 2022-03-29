@@ -199,6 +199,6 @@ int main()
         } 
     }
     while (mad/='Y');
-    cout<<"Terima Kasih Atas Kunjungan Anda Di Rumah Makan Barokah";
+    cout<<"Terima Kasih Atas Kunjungan Anda ";
     return 0;
 }
