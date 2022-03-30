@@ -61,7 +61,7 @@ int main()
             
         case 2:
         cout<<'\n'<<"Ayam Goreng"<<endl;
-        pri=17000;
+        pri =17000;
         cout<<"Masukkan jarak rumah : "; cin>>jarak;
         cout<<"Masukan Jumlah Porsi : ";
         cin>>jml;
