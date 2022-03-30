@@ -26,7 +26,7 @@ int main()
         switch (kode)
         {
         case 1:
-        cout<<'\n'<<"Ayam Geprek"<<endl;
+        cout <<'\n'<<"Ayam Geprek"<<endl;
         pri=21000;
         cout<<"Masukkan jarak rumah : "; cin>>jarak;
         cout<<"Masukan Jumlah Porsi : ";
